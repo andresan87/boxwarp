@@ -1,8 +1,8 @@
 window
 {
-	title = Ethanon Engine;
-	width = 640;
-	height = 480;
+	title = BoxWarp;
+	width = 480;
+	height = 800;
 	windowed = true;
 	vsync = true;
 }
