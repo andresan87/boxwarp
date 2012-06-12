@@ -1,0 +1,93 @@
+# misc
+*.DS_Store
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated GUI files
+R.java
+
+data.properties
+data.cpp
+
+.settings
+
+ETHFramework/
+ethf.user.data
+
+# SVC
+.svn
+*.svn
+
+# C/C++ binaries
+*.lib
+*.obj
+*.idb
+*.pdb
+*.lib
+*.dll
+*.o
+*.o.d
+*.org
+# *.so
+*.a
+gdb.setup
+gdbserver
+
+# MSVC
+*.ilk
+*.manifest
+*.user
+*.ncb
+*.suo
+*.exp
+*.dep
+
+*.res
+
+Debug/
+
+*bin/
+
+gs2d/vendors/
+
+# Ethanon files
+_assets.readme.txt
+_assets/
+obj/
+src/Audio/
+src/Input/
+src/Platorm/
+src/Video/
+*.log.txt
+*.log
+*.bin
+*.bin.txt
+game.bin.readme.txt
+AS_DEBUG/
+readme.txt
+
+scores.enml
+
+# Bee
+
+lastTimePlayed.enml
+score.enml
+scores.enml
+achievements.enml
+_score.enml
+_scores.enml
+_achievements.enml
+flowers.enml
+#app.enml
+lastTimePlayed.enml
+options.enml
+loadTime.txt
+GameVersion.angelscript
